@@ -12,3 +12,5 @@ git commit -m 'deploy'
 # 部署到 https://github.com/chou0728/eric-project.git 分支為 gh-pages
 git push -f https://github.com/tp27933/AAX-sue-claim-website.git master:gh-pages
 cd -
+
+#sh ./deploy.sh
